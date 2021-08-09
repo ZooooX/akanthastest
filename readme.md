@@ -5,4 +5,4 @@ Implémentation d'un tableau de données responsive.
 
 Fake data générée avec Mockaroo : [https://www.mockaroo.com/]
 
-Github page : [https://github.com/ZooooX/akanthastest/build]
+Github page : [https://zoooox.github.io/akanthastest/]
